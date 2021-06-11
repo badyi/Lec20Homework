@@ -1,0 +1,11 @@
+framework module HexFramework {
+  umbrella header "HexFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module HexFramework.Swift {
+    header "HexFramework-Swift.h"
+    requires objc
+}

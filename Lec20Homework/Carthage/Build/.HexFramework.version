@@ -1,0 +1,19 @@
+{
+  "commitish" : "a4801e5217081ed3e23fea5c82f439027f94137b",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "a0286a4d3ffd0fc70357d8a23f5db6febe5da426ebe59ae93fecaa77b568d92b",
+      "name" : "HexFramework",
+      "container" : "HexFramework.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "8e8e77ae075a21103eb55a48904d66b1b05a7857166aa0ddaffaec005c6c5c3a",
+      "name" : "HexFramework",
+      "container" : "HexFramework.xcframework",
+      "identifier" : "ios-arm64"
+    }
+  ]
+}
